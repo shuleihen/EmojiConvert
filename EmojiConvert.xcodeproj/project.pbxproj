@@ -14,6 +14,7 @@
 		19E490141E1E1DA50012CE6E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 19E490131E1E1DA50012CE6E /* Assets.xcassets */; };
 		19E490171E1E1DA50012CE6E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 19E490151E1E1DA50012CE6E /* LaunchScreen.storyboard */; };
 		19E490211E1E1DC90012CE6E /* NSString+Emoji.m in Sources */ = {isa = PBXBuildFile; fileRef = 19E490201E1E1DC90012CE6E /* NSString+Emoji.m */; };
+		19E490231E1E36D20012CE6E /* emoji.png in Resources */ = {isa = PBXBuildFile; fileRef = 19E490221E1E36D20012CE6E /* emoji.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		19E490181E1E1DA50012CE6E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		19E4901F1E1E1DC90012CE6E /* NSString+Emoji.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Emoji.h"; sourceTree = "<group>"; };
 		19E490201E1E1DC90012CE6E /* NSString+Emoji.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Emoji.m"; sourceTree = "<group>"; };
+		19E490221E1E36D20012CE6E /* emoji.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = emoji.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				19E4900E1E1E1DA50012CE6E /* ViewController.m */,
 				19E490101E1E1DA50012CE6E /* Main.storyboard */,
 				19E490131E1E1DA50012CE6E /* Assets.xcassets */,
+				19E490221E1E36D20012CE6E /* emoji.png */,
 				19E490151E1E1DA50012CE6E /* LaunchScreen.storyboard */,
 				19E490181E1E1DA50012CE6E /* Info.plist */,
 				19E490071E1E1DA50012CE6E /* Supporting Files */,
@@ -151,6 +154,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				19E490231E1E36D20012CE6E /* emoji.png in Resources */,
 				19E490171E1E1DA50012CE6E /* LaunchScreen.storyboard in Resources */,
 				19E490141E1E1DA50012CE6E /* Assets.xcassets in Resources */,
 				19E490121E1E1DA50012CE6E /* Main.storyboard in Resources */,
