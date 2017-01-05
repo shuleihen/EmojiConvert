@@ -15,16 +15,17 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "DYEmojiConvert"
+  s.name         = "EmojiConvert"
   s.version      = "0.0.1"
-  s.summary      = "Simple convert emoji to [U+XXXX]."
+  s.summary      = "convert between emoji and mask code as [U+XXXX]."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = <<-DESC
+  s.description  = <<-DESC 
+		   through calculate of to convert emoji to mask code and convert mask code to emoji. 
                    DESC
 
   s.homepage     = "https://github.com/shuleihen/EmojiConvert"
@@ -38,7 +39,7 @@ Pod::Spec.new do |s|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  s.license      = "MIT (example)"
+  s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
