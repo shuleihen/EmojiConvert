@@ -58,10 +58,10 @@
     unsigned uc;
     [aScanner scanHexInt:&uc];
     
-    NSString *scanString = @"[0x1F600]";
-    NSScanner *bScanner = [NSScanner scannerWithString:scanString];
-    unsigned r;
-    [bScanner scanHexInt:&r];
+//    NSString *scanString = @"[0x1F600]";
+//    NSScanner *bScanner = [NSScanner scannerWithString:scanString];
+//    unsigned r;
+//    [bScanner scanHexInt:&r];
     
     NSString *emoji = @"";
     // 转换参照地址 http://blog.csdn.net/u014702999/article/details/43055445
